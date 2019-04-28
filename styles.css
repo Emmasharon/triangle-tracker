@@ -1,11 +1,16 @@
 body {
   font-size: 25px;
   font-family: 'Cormorant Unicase', serif;
+  background-image: url('images (1).jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h1 {
-  border-top: 1px solid grey;
-  border-bottom: 3px solid grey;
+  border-top: 1px solid white;
+  border-bottom: 3px solid white;
   text-align: center;
   margin-bottom: 150px;
-
+}
+.start {
+  opacity: rgba(0, 0, 0, 0.2);
 }
