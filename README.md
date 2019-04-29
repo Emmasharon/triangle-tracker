@@ -33,13 +33,14 @@ This is a webpage that takes three values and determines what kind of triangle t
    <tr>
        <td>Sum of two values<= third value </td>
        <td>[2,2,10]</td>
-       <td>No triangle</td>
+       <td>Not a triangle</td>
    </tr>
 </table>
 
 ## Technologies Used
 * HTML
 * CSS
+*JAVASCRIPT
 ## contacts
 contact me @ emmasharon19@gmail.com
 ### license
