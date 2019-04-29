@@ -41,7 +41,7 @@ This is a webpage that takes three values and determines what kind of triangle t
 * HTML
 * CSS
 ## contacts
-contact me @ calmosh1421@gmail.com
+contact me @ emmasharon19@gmail.com
 ### license
 *MIT LICENSE
 Copyright &copy:2019.All rigths reserved
