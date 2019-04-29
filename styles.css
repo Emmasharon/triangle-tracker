@@ -18,7 +18,10 @@ h1 {
   margin-bottom: 150px;
 }
 .start {
-  background-color:  #396069
+  background-image:url(triangles.img);
+  background-repeat: no-repeat;
+  background-size:cover;
+  /* background-color:  #396069 */
 ;
-  color:#CDD4CE;
+  color:solid-grey;
 }
