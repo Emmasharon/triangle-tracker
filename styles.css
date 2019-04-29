@@ -14,7 +14,6 @@ h1 {
   padding-bottom: 70px;
 }
 .middle {
-  background-color: #CDD4CE;
   margin-bottom: 150px;
 }
 .start {
@@ -24,4 +23,7 @@ h1 {
   /* background-color:  #396069 */
 ;
   color:solid-grey;
+}
+form {
+  text-align: center;
 }
